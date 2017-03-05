@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000004
+	</dataid>
+	<description>
+		
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		4
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000004/96_IWDD2013
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		
+	</sample>
+	<dataname>
+		IWDD2013
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		
+	</source>
+	<keywords>
+		
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		14163547469.0
+	</datasize>
+	<filenum>
+		-1
+	</filenum>
+	<lastupdate>
+		2016-05-10 10:38:28
+	</lastupdate>
+</dataset>

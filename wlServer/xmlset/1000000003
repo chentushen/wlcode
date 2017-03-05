@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000003
+	</dataid>
+	<description>
+		
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		3
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000003/96_UCR_TimeSeries
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		
+	</sample>
+	<dataname>
+		UCR_TimeSeries
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		
+	</source>
+	<keywords>
+		
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		526953731.0
+	</datasize>
+	<filenum>
+		-1
+	</filenum>
+	<lastupdate>
+		2016-05-10 11:12:12
+	</lastupdate>
+</dataset>

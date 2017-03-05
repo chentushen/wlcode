@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000010
+	</dataid>
+	<description>
+		
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		1
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000010/96_广东公共交通大赛
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		
+	</sample>
+	<dataname>
+		广东公共交通大赛
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		
+	</source>
+	<keywords>
+		
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		151241008.0
+	</datasize>
+	<filenum>
+		-1
+	</filenum>
+	<lastupdate>
+		2016-05-10 11:44:36
+	</lastupdate>
+</dataset>

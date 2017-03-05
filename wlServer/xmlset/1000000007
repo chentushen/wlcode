@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000007
+	</dataid>
+	<description>
+		
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		5
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000007/96_阿里大规模图像搜索大赛
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		
+	</sample>
+	<dataname>
+		阿里大规模图像搜索大赛
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		
+	</source>
+	<keywords>
+		
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		10610872237.0
+	</datasize>
+	<filenum>
+		-1
+	</filenum>
+	<lastupdate>
+		2016-05-11 23:57:24
+	</lastupdate>
+</dataset>

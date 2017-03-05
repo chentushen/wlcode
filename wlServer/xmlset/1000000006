@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000006
+	</dataid>
+	<description>
+		
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		7
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000006/96_IMDB
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		
+	</sample>
+	<dataname>
+		IMDB
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		
+	</source>
+	<keywords>
+		
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		1329953308.0
+	</datasize>
+	<filenum>
+		-1
+	</filenum>
+	<lastupdate>
+		2016-05-12 14:07:23
+	</lastupdate>
+</dataset>

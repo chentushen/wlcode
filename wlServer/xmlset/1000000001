@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<dataset>
+	<dataid>
+		1000000001
+	</dataid>
+	<description>
+		这是所有与Barcode有关数据的一些描述
+	</description>
+	<securitylevel>
+		-1
+	</securitylevel>
+	<datatype>
+		1
+	</datatype>
+	<isvalid>
+		-1
+	</isvalid>
+	<refrencestandards>
+		这里填写当用户引用数据的时候的引用标准
+	</refrencestandards>
+	<datapath>
+		10.141.208.67|/export/storage6d5/datasets/1000000001/96_barcode
+	</datapath>
+	<dataext>
+		
+	</dataext>
+	<sample>
+		这里主要填写数据的一条或者几条样例
+	</sample>
+	<dataname>
+		barcode
+	</dataname>
+	<recordsnum>
+		-1
+	</recordsnum>
+	<source>
+		这里填写数据的来源
+	</source>
+	<keywords>
+		关键词信息：交通、地理等
+	</keywords>
+	<sharerid>
+		-1
+	</sharerid>
+	<datasize>
+		102969344.0
+	</datasize>
+	<filenum>
+		1000
+	</filenum>
+	<lastupdate>
+		2016-05-10 11:10:35
+	</lastupdate>
+</dataset>
